@@ -1,0 +1,8 @@
+{
+  "name": "RecetaVenezolana",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "47611d30"
+}
